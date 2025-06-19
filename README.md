@@ -1,7 +1,7 @@
 ## Hi 👋 
 - I'm Bochun Peng.
-- I'm currently a master student in **Southeast University** / **Monash University** Joint Graduate School, China.
-- I'm currently learning **Control engineering**, **machine learning**.
+- I'm currently a master student in **Southeast University** / **Monash University** Joint Graduate School.
+- I'm currently learning **Control Engineering** and **Robotics**.
 
 <!--
 **PENGBochun/PENGBochun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
